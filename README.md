@@ -5,3 +5,5 @@
 Projenin ekran kaydı
 </h3>
 
+https://user-images.githubusercontent.com/33182788/185578277-f8a4f976-2b68-4d8a-8859-2535a83e1039.mp4
+
