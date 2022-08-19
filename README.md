@@ -4,5 +4,4 @@
 <h3>
 Projenin ekran kaydı
 </h3>
-https://user-images.githubusercontent.com/33182788/185577833-495911c5-2a2b-47cc-849d-863df6fc3840.mp4
 
