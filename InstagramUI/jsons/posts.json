@@ -1,0 +1,80 @@
+[
+    {
+      "id": 0,
+      "userName":"batuhan.ozalp",
+      "avatarImageUrl": "https://avatars.githubusercontent.com/u/33182788",
+      "postImageUrl": "https://i.picsum.photos/id/1015/6000/4000.jpg?hmac=aHjb0fRa1t14DTIEBcoC12c5rAXOSwnVlaA5ujxPQ0I",
+      "numberOfLikes": 12,
+      "description":"Perfect view! :D",
+      "numberOfComments": 5,
+      "postDate": "16 minutes ago",
+      "liked": false
+    },
+    {
+      "id": 1,
+      "userName":"JohnDoe",
+      "avatarImageUrl": "https://i.picsum.photos/id/71/200/200.jpg?hmac=TxuNm2jDRRNlSKPRxG7HH5vT63Bl20fD7M81shzv45M",
+      "postImageUrl": "https://i.picsum.photos/id/1011/5472/3648.jpg?hmac=Koo9845x2akkVzVFX3xxAc9BCkeGYA9VRVfLE4f0Zzk",
+      "numberOfLikes": 25,
+      "description":"tbt",
+      "numberOfComments": 8,
+      "postDate": "24 minutes ago",
+      "liked": true
+    },
+    {
+      "id": 2,
+      "userName":"DanielSparkse",
+      "avatarImageUrl": "https://i.picsum.photos/id/729/200/200.jpg?hmac=hCw_uurY9O39ITS0MMk7fNNdWPaY20TzXz2NTAkEslU",
+      "postImageUrl": "https://i.picsum.photos/id/1012/3973/2639.jpg?hmac=s2eybz51lnKy2ZHkE2wsgc6S81fVD1W2NKYOSh8bzDc",
+      "numberOfLikes": 20,
+      "description":"with my dog",
+      "numberOfComments": 0,
+      "postDate": "28 minutes ago",
+      "liked": true
+    },
+    {
+      "id": 3,
+      "userName":"BenjaminPirus",
+      "avatarImageUrl": "https://i.picsum.photos/id/1083/200/200.jpg?hmac=ocBiYtawFGXm884DNfTBRQy65ZWvsTQf_XCnlTUdtB4",
+      "postImageUrl": "https://i.picsum.photos/id/1013/4256/2832.jpg?hmac=UmYgZfqY_sNtHdug0Gd73bHFyf1VvzFWzPXSr5VTnDA",
+      "numberOfLikes": 48,
+      "description":"Lorem Ipsum is simply dummy",
+      "numberOfComments": 11,
+      "postDate": "1 hour ago",
+      "liked": false
+    },
+    {
+      "id": 4,
+      "userName":"OmkarGodbole",
+      "avatarImageUrl": "https://i.picsum.photos/id/426/200/200.jpg?hmac=5auPuax0L2lXSIX0eJ2Qxa3HzmGUHCrGDPIEMAWgw7o",
+      "postImageUrl": "https://i.picsum.photos/id/101/2621/1747.jpg?hmac=cu15YGotS0gIYdBbR1he5NtBLZAAY6aIY5AbORRAngs",
+      "numberOfLikes": 64,
+      "description":"good day",
+      "numberOfComments": 3,
+      "postDate": "2 hours ago",
+      "liked": false
+    },
+    {
+      "id": 5,
+      "userName":"Jessica",
+      "avatarImageUrl": "https://i.picsum.photos/id/452/200/200.jpg?hmac=f5vORXpRW2GF7jaYrCkzX3EwDowO7OXgUaVYM2NNRXY",
+      "postImageUrl": "https://i.picsum.photos/id/1010/5184/3456.jpg?hmac=7SE0MNAloXpJXDxio2nvoshUx9roGIJ_5pZej6qdxXs",
+      "numberOfLikes": 21,
+      "description":"Reading a book",
+      "numberOfComments": 0,
+      "postDate": "2 hours ago",
+      "liked": true
+    },
+    {
+      "id": 6,
+      "userName":"Ronaldo",
+      "avatarImageUrl": "https://i.picsum.photos/id/228/200/200.jpg?hmac=o6k6dSrgAeHp1V6rxIjRR2cwEeu4DUs9Z1-sLxrQ878",
+      "postImageUrl": "https://i.picsum.photos/id/1004/5616/3744.jpg?hmac=Or7EJnz-ky5bsKa9_frdDcDCR9VhCP8kMnbZV6-WOrY",
+      "numberOfLikes": 78,
+      "description":"Love <3",
+      "numberOfComments": 6,
+      "postDate": "3 hours ago",
+      "liked": false
+    }
+  ]
+  
